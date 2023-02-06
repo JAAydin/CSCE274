@@ -1,0 +1,5 @@
+<launch>
+  <group ns="lilduckie">
+    <node pkg="pentagon" name="pentagon" type="pentagon.py"/>
+  </group>
+</launch>

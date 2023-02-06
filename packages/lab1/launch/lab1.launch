@@ -1,0 +1,5 @@
+<launch>
+  <group ns="lab1">
+    <node pkg="lab1" name="lab1" type="lab1.py"/>
+  </group>
+</launch>

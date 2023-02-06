@@ -1,0 +1,5 @@
+<launch>
+  <group ns="lilduckie">
+    <node pkg="circle" name="circle" type="circle.py"/>
+  </group>
+</launch>
